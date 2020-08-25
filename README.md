@@ -8,3 +8,5 @@ By 露易娘 独立开发制作<br>
 <br>
 图形素材为免费公开开源提供使用<br>
 素材为录像记录点阵手绘工程很大，转载使用请注明谢谢<br>
+
+<video autoplay="" loop="" class="" style="max-width: 100%; min-height: 728px;" __idm_id__="348345345"><source type="video/mp4" src="https://i.imgur.com/ocnFLJn.mp4"></video>
