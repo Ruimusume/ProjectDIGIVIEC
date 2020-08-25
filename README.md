@@ -1,5 +1,5 @@
 # ProjectDIGIVIEC
-
+<img src="https://i.imgur.com/IELjXOE.jpg" alt="ProjectDIGIVIECLOGO"/>
 开坑日期2020年8月18日<br>
 本计划为暴龙机 Ver.15th原型制作的PC同人游戏<br>
 By 露易娘 独立开发制作<br>
